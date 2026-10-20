@@ -1,0 +1,28 @@
+{
+  "rows": 250,
+  "duplicate_rows": 147,
+  "unique_rows": 103,
+  "Logistic Regression": {
+    "accuracy": 0.98,
+    "recall": 0.92,
+    "roc_auc": 1.0
+  },
+  "Decision Tree": {
+    "accuracy": 0.98,
+    "recall": 0.96,
+    "roc_auc": 0.973
+  },
+  "Random Forest": {
+    "accuracy": 0.99,
+    "recall": 0.96,
+    "roc_auc": 1.0
+  },
+  "importance": {
+    "industrial_risk": 0.019,
+    "management_risk": 0.025,
+    "financial_flexibility": 0.211,
+    "credibility": 0.203,
+    "competitiveness": 0.521,
+    "operating_risk": 0.021
+  }
+}
