@@ -4,6 +4,8 @@ Score a company's bankruptcy risk from six qualitative risk factors, with a Rand
 
 **Live demo:** [Hugging Face Space](https://huggingface.co/spaces/Roshanz/Bankruptcy_Prevention)
 
+![App screenshot](images/app_screenshot.jpg)
+
 ## Data
 
 250 firms (107 bankrupt, 143 not) from the UCI *Qualitative Bankruptcy* data. Each firm is rated 0, 0.5 or 1 on industrial risk, management risk, financial flexibility, credibility, competitiveness and operating risk.
